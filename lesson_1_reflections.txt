@@ -1,0 +1,24 @@
+1. It is easier to use diff because I am seeing only the changes.
+
+2. Having the entire history of a file makes me a more efficient programmer because I can find mistakes made at any time in the project. Long term, this frees up more mental space to coding instead of remembering which files contain which changes.
+
+3. Pros and Cons of manual choice of commits:
+The Pros include meaningful changes are committed, each commit has a label, and there are no accidental saves
+The big con, especially for me, is forgetting to commit.
+
+4. Why do some version control systems like Git allow saving multiple files versus saving only single files
+Git is made for coding. Code in one file often affects other files in the program
+In Google Docs, it is mostly word documents or charts - signifigance is in individual files instead of a group of files working together
+
+5. How can I use the commands git log and git diff to view the history of files?
+Git log shows me all the changes separated by individual commits
+Git diff can show me the changes between two different commits
+
+6. Version control makes me more confident because I can see the changes easily. I can see large and small changes. Since each commit represents a meaningful change, I can be confident that I can find the issue.
+With git checkout, I can work to find any new issues introduced.
+
+
+Thoughts:
+I would like to be able to know the line number that changed, but maybe that is just me.
+
+diff looks more cluttered than FC, but I feel like I am getting more information in diff. Hope to master diff soon.
