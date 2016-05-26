@@ -1,0 +1,10 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+It creates a hidden folder to track the changes and marks the contents of the repository.
+
+Files are not tracked yet because nothing has been committed.
+
+2. How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+Working directory contains files and the repository contains changes to those files. The staging area is a bridge between the two. It allows you to set up the committs that will be tracked by the repositories.
+It is very helpful to be able to work on multiple areas, but committ changes for an individual area.
