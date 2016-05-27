@@ -10,3 +10,7 @@ You can determine the changes that others have made as compared to your changes.
 4. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 It would be harder. I would have to coordinate who would change specific files at a specific time.
 I wouldn't want to collaborate without some system of handling changes.
+
+5. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I would want to make changes in separate branch to either explore new ideas or as a suggestion on a project I am collaborating on.
+It helps because my proposed changes do not alter the stable master program and my proposed changes can be reviewed by others.
