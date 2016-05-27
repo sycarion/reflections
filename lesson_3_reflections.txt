@@ -6,3 +6,7 @@ Automatic pushes and pulls encounter the same issues as automatic committs. You 
 
 3. What is the benefit of having a copy of the last known state of the remote stored locally?
 You can determine the changes that others have made as compared to your changes.
+
+4. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It would be harder. I would have to coordinate who would change specific files at a specific time.
+I wouldn't want to collaborate without some system of handling changes.
