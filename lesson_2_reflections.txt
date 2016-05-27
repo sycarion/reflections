@@ -8,3 +8,19 @@ What value do you think it offers?
 
 Working directory contains files and the repository contains changes to those files. The staging area is a bridge between the two. It allows you to set up the committs that will be tracked by the repositories.
 It is very helpful to be able to work on multiple areas, but committ changes for an individual area.
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+Using git add allows me to control commits one file at a time.
+Using git diff helps me know exactly what changes have been made so that I can see if I have too many changes for a commit.
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches help with experimental functions, translations, or different modes of the same basic program.
+
+5. How do diagrams help you visualize the branch structure?
+They demonstrate in a picture form what it going on with all the branches.
+
+6. What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+The automatic merging available in git seems to handle the very simplest issues where changes were made to indpendent files.
+Manual merges are required when two people change the same file(s) because there is no accurate automatic way to handle these conflicts without human intervention.
+
+It does seem that in any collaborative project, a lot of time is spent with manual merges or the project leader simply assign only one person to a particular section of code.
